@@ -1,9 +1,9 @@
-have_fun: false
-code_review:
+Revival_Engine: true
+code_review: true 
   disable: true
-  comment_severity_threshold:
+  comment_severity_threshold:true
   max_review_comments: 1
-  pull_request_closed:
-    help: false
+  pull_request_closed: true 
+    help: true
     summary: true
     code_review: true 
