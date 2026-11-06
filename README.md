@@ -4,7 +4,7 @@
 -   [Matter SDK documentation page](https://project-chip.github.io/connectedhomeip-doc/index.html)
 -   [Matter SDK Coverage Report](https://matter-build-automation.ue.r.appspot.com/)
 
-# Matter
+# Black Stone Revival 
 
 [![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/build.yaml)
 
